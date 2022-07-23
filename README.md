@@ -3,7 +3,7 @@
 
 Eu sou uma programadora dedicada que está no 3° Ano do Ensino Médio e fazendo um Cruso Técnico em Informática com foco em WEB e Mobile no Colégio Cotemig.  
 
-### Link para o site com o meu Portifólio
+### Link para o site com o meu Curículo
 https://camillij.github.io/Portifolio-CamilliJ/
 <br><br> 
 ### Ferramentas e Tecnologias
